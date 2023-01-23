@@ -1,0 +1,138 @@
+# github.com/BurntSushi/toml v1.2.1
+## explicit
+github.com/BurntSushi/toml
+github.com/BurntSushi/toml/internal
+# github.com/OneOfOne/xxhash v1.2.5
+## explicit
+# github.com/bradfitz/latlong v0.0.0-20170410180902-f3db6d0dff40
+## explicit
+github.com/bradfitz/latlong
+# github.com/cespare/xxhash v1.0.0
+## explicit
+github.com/cespare/xxhash
+# github.com/client9/misspell v0.3.4
+## explicit
+github.com/client9/misspell
+github.com/client9/misspell/cmd/misspell
+# github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0
+## explicit
+# github.com/google/go-cmp v0.5.9
+## explicit
+github.com/google/go-cmp/cmp
+github.com/google/go-cmp/cmp/internal/diff
+github.com/google/go-cmp/cmp/internal/flags
+github.com/google/go-cmp/cmp/internal/function
+github.com/google/go-cmp/cmp/internal/value
+# github.com/gordonklaus/ineffassign v0.0.0-20230107090616-13ace0543b28
+## explicit
+github.com/gordonklaus/ineffassign
+github.com/gordonklaus/ineffassign/pkg/ineffassign
+# github.com/jonas-p/go-shp v0.1.1
+## explicit
+# github.com/kisielk/errcheck v1.6.3
+## explicit
+github.com/kisielk/errcheck
+github.com/kisielk/errcheck/errcheck
+# github.com/kortschak/utter v0.0.0-20180609113506-364ec7d7a8f4
+## explicit
+github.com/kortschak/utter
+# github.com/mdempsky/unconvert v0.0.0-20221005094106-27bfb232899d
+## explicit
+github.com/mdempsky/unconvert
+# github.com/spaolacci/murmur3 v1.1.0
+## explicit
+# github.com/tealeg/xlsx v1.0.5
+## explicit
+github.com/tealeg/xlsx
+# golang.org/x/exp/typeparams v0.0.0-20230118134722-a68e582fa157
+## explicit
+golang.org/x/exp/typeparams
+# golang.org/x/image v0.0.0-20190501045829-6d32002ffd75
+## explicit
+# golang.org/x/mod v0.7.0
+golang.org/x/mod/internal/lazyregexp
+golang.org/x/mod/module
+golang.org/x/mod/semver
+# golang.org/x/sync v0.1.0
+golang.org/x/sync/semaphore
+# golang.org/x/sys v0.4.0
+golang.org/x/sys/execabs
+# golang.org/x/text v0.6.0
+golang.org/x/text/transform
+golang.org/x/text/width
+# golang.org/x/tools v0.5.0
+## explicit
+golang.org/x/tools/cmd/goimports
+golang.org/x/tools/go/analysis
+golang.org/x/tools/go/analysis/passes/inspect
+golang.org/x/tools/go/ast/astutil
+golang.org/x/tools/go/ast/inspector
+golang.org/x/tools/go/buildutil
+golang.org/x/tools/go/gcexportdata
+golang.org/x/tools/go/internal/cgo
+golang.org/x/tools/go/internal/packagesdriver
+golang.org/x/tools/go/loader
+golang.org/x/tools/go/packages
+golang.org/x/tools/go/types/objectpath
+golang.org/x/tools/go/types/typeutil
+golang.org/x/tools/internal/event
+golang.org/x/tools/internal/event/core
+golang.org/x/tools/internal/event/keys
+golang.org/x/tools/internal/event/label
+golang.org/x/tools/internal/fastwalk
+golang.org/x/tools/internal/gcimporter
+golang.org/x/tools/internal/gocommand
+golang.org/x/tools/internal/gopathwalk
+golang.org/x/tools/internal/imports
+golang.org/x/tools/internal/packagesinternal
+golang.org/x/tools/internal/pkgbits
+golang.org/x/tools/internal/typeparams
+golang.org/x/tools/internal/typesinternal
+# honnef.co/go/tools v0.3.3
+## explicit
+honnef.co/go/tools/analysis/code
+honnef.co/go/tools/analysis/edit
+honnef.co/go/tools/analysis/facts/deprecated
+honnef.co/go/tools/analysis/facts/directives
+honnef.co/go/tools/analysis/facts/generated
+honnef.co/go/tools/analysis/facts/nilness
+honnef.co/go/tools/analysis/facts/purity
+honnef.co/go/tools/analysis/facts/tokenfile
+honnef.co/go/tools/analysis/facts/typedness
+honnef.co/go/tools/analysis/lint
+honnef.co/go/tools/analysis/report
+honnef.co/go/tools/cmd/staticcheck
+honnef.co/go/tools/config
+honnef.co/go/tools/go/ast/astutil
+honnef.co/go/tools/go/buildid
+honnef.co/go/tools/go/ir
+honnef.co/go/tools/go/ir/irutil
+honnef.co/go/tools/go/loader
+honnef.co/go/tools/go/types/typeutil
+honnef.co/go/tools/internal/passes/buildir
+honnef.co/go/tools/internal/renameio
+honnef.co/go/tools/internal/robustio
+honnef.co/go/tools/internal/sharedcheck
+honnef.co/go/tools/internal/sync
+honnef.co/go/tools/knowledge
+honnef.co/go/tools/lintcmd
+honnef.co/go/tools/lintcmd/cache
+honnef.co/go/tools/lintcmd/runner
+honnef.co/go/tools/lintcmd/version
+honnef.co/go/tools/pattern
+honnef.co/go/tools/printf
+honnef.co/go/tools/quickfix
+honnef.co/go/tools/sarif
+honnef.co/go/tools/simple
+honnef.co/go/tools/staticcheck
+honnef.co/go/tools/staticcheck/fakejson
+honnef.co/go/tools/staticcheck/fakereflect
+honnef.co/go/tools/staticcheck/fakexml
+honnef.co/go/tools/stylecheck
+honnef.co/go/tools/unused
+# mvdan.cc/gofumpt v0.4.0
+## explicit
+mvdan.cc/gofumpt
+mvdan.cc/gofumpt/format
+mvdan.cc/gofumpt/internal/diff
+mvdan.cc/gofumpt/internal/version
